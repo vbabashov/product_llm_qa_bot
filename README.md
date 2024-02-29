@@ -11,8 +11,8 @@ Getting Started
 
 **Installation process:**
 
-git checkout develop
-poetry install
-poetry run pre-commit install
+- git checkout develop
+- poetry install
+- poetry run pre-commit install
 
 
