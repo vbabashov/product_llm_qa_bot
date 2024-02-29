@@ -3,7 +3,16 @@ We aim to build LLM enabled chatbot that helps answer customer questions for pro
 
 Getting Started
 
-Pre-requisites
+**Pre-requisites:
 
-- Python >= 3.9. [Pyenv](https://github.com/pyenv/pyenv) is recommended to install the right version 
-- [Poetry](https://python-poetry.org/docs/) for dependency management
+- Python >= 3.9. [Pyenv](https://github.com/pyenv/pyenv) is recommended (not mandatory) to install the right version 
+- [Poetry](https://python-poetry.org/docs/) is needed for dependency management
+
+
+**Installation process:
+
+git checkout develop
+poetry install
+poetry run pre-commit install
+
+
